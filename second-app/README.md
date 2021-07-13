@@ -1,3 +1,3 @@
-#Guess the Number App
+# Guess the Number App
 
 App that guesses the number entered
